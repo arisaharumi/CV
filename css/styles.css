@@ -1,26 +1,26 @@
 
 
 body {
-  background-color: #EEEBDD;
+  background-color: #E7E0C9;
 }
 
 h1{
-  color: #630000;
+  color: #012443;
   font-size: 70px
 }
 
 h2{
-  color: #630000
+  color: #B61919
 }
 h3{
-  color: #8D2828;
+  color: #012443;
 }
 
 hr{
 
   border-style: none;
   border-top-style: dotted;
-  border-color: #F58634;
+  border-color: #FF6B6B;
   border-width: 5px;
   height: 0px;
   width: 20%;
