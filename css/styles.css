@@ -1,19 +1,23 @@
 
 
 body {
-  background-color: #E7E0C9;
+  background-color: #FEFFE2;
+  text-align:  center;
 }
 
 h1{
   color: #012443;
-  font-size: 70px
+  font-size: 70px;
+  text-align:  center;
 }
 
 h2{
-  color: #B61919
+  color: #B61919;
+  text-align:  center
 }
 h3{
   color: #012443;
+
 }
 
 hr{
@@ -24,5 +28,26 @@ hr{
   border-width: 5px;
   height: 0px;
   width: 20%;
+}
+
+.FOTO {
+  width: 110px;
+  height: 110px ;
+    position: absolute;
+  left: 350px;
+  top: 270px
+}
+
+.top-container {
+  background-color: #F7DAD9;
+  position: relative;
+  padding-top: 80px;
+}
+.middle-container {
+
+}
+
+.bottom-container{
+
 
 }
